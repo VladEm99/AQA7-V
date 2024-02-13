@@ -8,6 +8,14 @@ public class AppTest {
     public void dummyTest(){
         Assertions.assertTrue(true);
     }
+    @Test
+    public void dummyTest2(){
+        Assertions.assertTrue(true);
+    }
+    @Test
+    public void dummyTest3(){
+        Assertions.assertTrue(true);
+    }
 
 
 }
