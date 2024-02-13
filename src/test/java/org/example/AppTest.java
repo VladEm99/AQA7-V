@@ -13,9 +13,7 @@ public class AppTest {
         Assertions.assertTrue(true);
     }
     @Test
-    public void dummyTest3(){
-        Assertions.assertTrue(true);
-    }
+    public void dummyTest3(){Assertions.assertTrue(true);}
 
 
 }
