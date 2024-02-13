@@ -16,6 +16,11 @@ public class AppTest {
     public void dummyTest3(){
         Assertions.assertTrue(true);
     }
+    @Test
+    public void dummyTest4(){
+        Assertions.assertTrue(true);
+    }
+
 
 
 }
